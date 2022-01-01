@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "Alpacasqare's_Chemical_mod",
+  "version": "0.0.01",
+  "name": "Alpacasqare's Chemical mod",
+  "description": "descriptions",
+  "environment": "*",
+  "depends": {
+    "fabricloader": ">=0.11.6",
+    "fabric": ">=0.37.0",
+    "fabric-biome-api-v1": ">=3.0.0"
+  },
+  "entrypoints": {
+    "main": [
+      "dev.Items.elements.Hydrogen"
+    ]
+  }
+}

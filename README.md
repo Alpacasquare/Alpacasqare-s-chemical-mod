@@ -1,3 +1,3 @@
 # Alpacasqare-s-chemical-mod
-Chemicals and experimental operations
-there's noting!
+This mod will provide you some chemical prolongation
+
